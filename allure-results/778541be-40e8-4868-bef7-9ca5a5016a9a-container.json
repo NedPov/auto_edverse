@@ -1,0 +1,1 @@
+{"uuid": "87c62bdd-9f3f-4a01-a8c5-e43d1396985b", "children": ["bd1b92ca-a836-434c-813b-b2c7558fcc2d"], "befores": [{"name": "delete_output_dir", "status": "passed", "start": 1790010371415, "stop": 1790010371415}], "afters": [{"name": "delete_output_dir::<lambda>", "start": 1790010378223}], "start": 1790010371415, "stop": 1790010378224}
